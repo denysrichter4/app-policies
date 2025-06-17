@@ -4,7 +4,7 @@
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal information when you use our Service.
 
-Denys A Richter ("we", "our") operates the mobile application Advanced QR Generator (the "Service").
+Denys Richter ("we", "our") operates the mobile application Advanced QR Generator (the "Service").
 
 By using the Service, you agree to the collection and use of information in accordance with this policy.
 
