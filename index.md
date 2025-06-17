@@ -1,49 +1,50 @@
-# Política de Privacidade para Advanced QR Generator.
+# Privacy Policy for Advanced QR Generator
 
-**Data da Última Atualização:** 15 de Junho de 2025
+**Last Updated:** June 15, 2025
 
-Esta página informa sobre nossas políticas relativas à coleta, uso e divulgação de informações pessoais quando você usa nosso Serviço.
+This page informs you of our policies regarding the collection, use, and disclosure of personal information when you use our Service.
 
-Denys A Richter ("nós", "nosso") opera o aplicativo móvel Advanced QR Generator (o "Serviço").
+Denys A Richter ("we", "our") operates the mobile application Advanced QR Generator (the "Service").
 
-Ao usar o Serviço, você concorda com a coleta e uso de informações de acordo com esta política.
+By using the Service, you agree to the collection and use of information in accordance with this policy.
 
-### Coleta e Uso de Informações
+### Information Collection and Use
 
-Nosso aplicativo utiliza serviços de terceiros que podem coletar informações usadas para identificá-lo. O principal serviço que utilizamos é o Google AdMob, para a exibição de anúncios.
+Our app uses third-party services that may collect information used to identify you. The main service we use is Google AdMob, which displays ads in our app.
 
 #### **Google AdMob**
 
-O Google AdMob é um serviço de publicidade fornecido pela Google Inc. Ele é utilizado para exibir anúncios dentro do nosso aplicativo, o que nos permite oferecer o Serviço gratuitamente.
+Google AdMob is an advertising service provided by Google Inc. It is used to display ads within our app, which enables us to offer the Service for free.
 
-O AdMob pode usar cookies, web beacons e outras tecnologias para coletar informações sobre seu uso do nosso Serviço e de outros websites para fornecer anúncios mais relevantes. As informações coletadas podem incluir, mas não se limitam a:
+AdMob may use cookies, web beacons, and other technologies to collect information about your use of our Service and other websites in order to provide more relevant advertisements. The information collected may include, but is not limited to:
 
-* ID de publicidade do dispositivo
-* Endereço IP
-* Informações do dispositivo (como modelo, sistema operacional)
-* Dados de uso do aplicativo
+* Device advertising ID
+* IP address
+* Device information (such as model and operating system)
+* App usage data
 
-Para mais informações sobre como o Google coleta e utiliza seus dados, por favor, consulte a Política de Privacidade e os Termos do Google:
-* [Como o Google usa informações de sites ou apps que utilizam nossos serviços](https://policies.google.com/technologies/partner-sites)
+For more information on how Google collects and uses your data, please refer to Google’s Privacy Policy and Terms:
 
-### Dados de Log
+* [How Google uses information from sites or apps that use our services](https://policies.google.com/technologies/partner-sites)
 
-Informamos que sempre que você usa nosso Serviço, em caso de erro no aplicativo, coletamos dados e informações (através de produtos de terceiros) em seu telefone chamados de Dados de Log. Estes Dados de Log podem incluir informações como o endereço de Protocolo de Internet ("IP") do seu dispositivo, nome do dispositivo, versão do sistema operacional, a configuração do aplicativo ao utilizar nosso Serviço, a hora e data do seu uso do Serviço e outras estatísticas.
+### Log Data
 
-### Segurança
+We want to inform you that whenever you use our Service, in the event of an error in the app, we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device’s Internet Protocol ("IP") address, device name, operating system version, the configuration of the app when using our Service, the time and date of your use of the Service, and other statistics.
 
-Valorizamos sua confiança em nos fornecer suas informações, portanto, estamos nos esforçando para usar meios comercialmente aceitáveis de protegê-las. Mas lembre-se que nenhum método de transmissão pela internet, ou método de armazenamento eletrônico é 100% seguro e confiável, e não podemos garantir sua segurança absoluta.
+### Security
 
-### Privacidade Infantil
+We value your trust in providing us with your personal information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
 
-Nossos Serviços não se destinam a ninguém com menos de 13 anos. Não coletamos intencionalmente informações de identificação pessoal de crianças menores de 13 anos. No caso de descobrirmos que uma criança menor de 13 anos nos forneceu informações pessoais, nós as excluiremos imediatamente de nossos servidores. Se você é pai ou responsável e está ciente de que seu filho nos forneceu informações pessoais, entre em contato conosco para que possamos tomar as medidas necessárias.
+### Children's Privacy
 
-### Alterações a Esta Política de Privacidade
+Our Services are not intended for anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we will immediately delete this data from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we can take necessary actions.
 
-Podemos atualizar nossa Política de Privacidade de tempos em tempos. Assim, aconselhamos que você revise esta página periodicamente para quaisquer alterações. Notificaremos você sobre quaisquer alterações, publicando a nova Política de Privacidade nesta página.
+### Changes to This Privacy Policy
 
-Estas alterações entram em vigor imediatamente após serem publicadas nesta página.
+We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-### Contato
+These changes are effective immediately after they are posted on this page.
 
-Se você tiver alguma dúvida ou sugestão sobre nossa Política de Privacidade, não hesite em nos contatar em: **denysrichter4@gmail.com**.
+### Contact Us
+
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: **[denysrichter4@gmail.com](mailto:denysrichter4@gmail.com)**.
